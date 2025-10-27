@@ -1,9 +1,13 @@
 🧠 Bachelor Thesis — Pothole Detection and Its Avoidance Using Machine Learning
 
 Author: Charudatta Bangal
+
 Institution: Sinhgad College of Engineering, Pune (Affiliated to Savitribai Phule Pune University)
+
 Degree: Bachelor of Engineering (Computer Engineering)
+
 Year: 2019–2020
+
 Guide: Prof. S. N. Bhosale
 
 📘 Project Overview
@@ -95,9 +99,13 @@ Performance: Smooth real-time operation at moderate vehicle speeds
 GUI interface was developed in Python for user interaction and visualization of road anomalies.
 
 📊 Project Planning Summary
+
 Project Duration:-	9 months (COCOMO II Estimation)
+
 Estimated Effort:-	44 person-months
+
 Estimated Cost:-	  ₹45,000 (approx.)
+
 Model Used:-	      Waterfall Model
 
 🧩 Publication Details
