@@ -125,7 +125,11 @@ Integration with autonomous driving frameworks
 👩‍💻 Contributors
 
 Charudatta Bangal:-	 Machine Learning & System Integration
+
 Deveyash Bharat:-	   Front-end Interface
+
 Aryan Vaid:-	       Image Processing
+
 Siddharth Changede:- Sensor Module
+
 Aditya Raj:-	       Database & Cloud
